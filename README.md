@@ -1,5 +1,5 @@
 # cats-vs-dogs-Kaggle-solutions
-Different approaches to Kaggle's Dogs vs. cats competition
+This repo consists of 2 simple approaches to Kaggle's Dogs vs. cats challenge
 
 mymodule consists of the classes and modules I have used in the subsequent approaches
 
